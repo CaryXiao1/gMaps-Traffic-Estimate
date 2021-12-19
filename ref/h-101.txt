@@ -1,0 +1,46 @@
+Interchange 2 Center (southern Pelatuma)
+38.234975,-122.618569
+Interchange 3 Center (middle Pelatuma)
+38.246825,-122.627414
+Interchange 4 Center (northen Pelatuma)
+38.271985,-122.669737
+Interchange 5 Center (southern Cotati)
+38.331132,-122.712703
+Interchange 6 Center (southern Rohnet Park)
+38.348165,-122.712968
+Interchange 7 Center (northern Rohnet Park)
+38.348165,-122.712959
+Interchange 8 Center (northern 2 Rohnet Park)
+38.361987,-122.712867
+Interchange 9 Center (between Rohnet and Roseland southern)
+38.371250,-122.713776
+Interchange 10 Center (between Rohnet and Roseland northen)
+38.387057,-122.716110
+Interchange 11 Center (southern Roseland)
+38.413210,-122.715978
+Interchange 12 Center (northern Roseland)
+38.420577,-122.715537
+Interchange 13 Center (Santa Rosa)
+38.431168,-122.715408
+Interchange 14 Center (northern Santa Rosa)
+38.437268,-122.718057
+Interchange 15 Center (College ave)
+38.445828,-122.723894
+Interchange 15 Center (Steele Ln)
+38.459924,-122.726184
+Interchange 16 Center (Bicentennial Way)
+38.470569,-122.729311
+Interchange 17 Center (Mendocino O/C)
+38.475478,-122.731370
+Interchange 18 Center (River Rd)
+38.496221,-122.756073
+Interchange 19 Center (Airport Blvd)
+38.511458,-122.775620
+Interchange 20 Center (Siloh Rd)
+38.525849,-122.789943
+Interchange 21 Center (Old Redwood Hwy)
+38.546952,-122.807979
+Interchange 22 Center (Southern Healdsburg)
+38.594973,-122.852873
+Interchange 23 Center (center Healdsburg) - Note: put in between 2 close half-interchanges
+38.605211,-122.870093

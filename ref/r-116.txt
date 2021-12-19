@@ -1,0 +1,24 @@
+Interchange 1 (Center Sebastopol)
+38.402110, -122.824176
+Interchange 2 (Walker Ave, between 1-way roads)
+38.398193, -122.821601
+Interchange 3 (Palm Ave, between 1-way roads)
+38.395882, -122.820097
+Interchange 4 (Bloomfield Rd)
+38.381272, -122.806146
+Interchange 5 (Hutchins Ave)
+38.392979, -122.818131
+Interchange 6 (Lynch Rd)
+38.389207, -122.815267
+Interchange 7 (Southern Sebastopol)
+38.388459, -122.814524
+Interchange 8 (Bloomfield Rd)
+38.381244, -122.806176
+Interchange 9 (Stony Pt Rd)
+38.334557, -122.738329
+Interchange 10 (Redwood Dr)
+38.331575, -122.715052
+Interchange 11 (Merge to 101 south)
+38.331358, -122.713541
+Interchange 12 (End of 116)
+38.331103, -122.711726

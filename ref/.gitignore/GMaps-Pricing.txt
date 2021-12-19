@@ -1,0 +1,23 @@
+Estimated cost per day of data aggregation: 
+
+Road: H-12
+23 Locations, (22 Connections between each road + 1 first to last) * 2 for both ways = $0.46 per cycle
+
+Road: H-101
+21, (20 + 1) * 2 = $0.42 per cycle
+
+Road: R-116
+12, (11 + 1) * 2 = $0.24 per cycle
+
+Zip Codes:
+Update-2 file has 8 locations; all combinations = 8 * 7 = $0.56 per cycle 
+
+
+Total per cycle: $1.68
+
+Total per day: 4 Hours = 240 Mins / (10 mins per cycle) = 24 cycles, $1.68 * 24 = $40.32
+
+--------------------
+most traveled routes
+stace maples - https://library.stanford.edu/people/maples
+make map of data

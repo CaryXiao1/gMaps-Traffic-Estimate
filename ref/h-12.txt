@@ -1,0 +1,48 @@
+Eastern edge of h-12:
+38.402107,-122.824195
+Interchange 1 Center (Stony Pt Rd)
+38.430468,-122.741821
+Interchange 2 Center (N Dutton Ave)
+38.432926,-122.726169
+Interchange 3 Center (h-101)
+38.431022,-122.715394
+Interchange 4 Center (Maple Ave / Bennet Valley Rd) - Note: 2 close half-interchanges
+38.433099,-122.701592
+Interchange 5 Center (Farmer's Ln)
+38.435737,-122.688185
+Interchange 6 Center (4th St)
+38.449697,-122.688468
+Interchange 7 Center (Mission Blvd)
+38.458659,-122.674335
+Interchange 8 Center (Meltia Rd)
+38.455911,-122.628073
+Interchange 9 Center (Oakmont Dr)
+38.445218,-122.605032
+Interchange 10 Center (Pythian Rd)
+38.435455,-122.578222
+Interchange 11 Center (Warm Springs Rd)
+38.414056,-122.545860
+Interchange 12 Center (Arnold Dr)
+38.414056,-122.545860
+Interchange 13 Center (Madrone Rd)
+38.343909,-122.497821
+Interchange 14 Center (Agua Caliente Rd)
+38.325750,-122.488283
+Interchange 15 Center (Marin Ave)
+38.324151,-122.487750
+Interchange 16 Center (Depot Rd)
+38.320035,-122.486200
+Interchange 16 Center (Verano Ave)
+38.302688,-122.476108
+Interchange 17 Center (Sonoma Cigars)
+38.299671,-122.475069
+Interchange 18 Center (W Spain St)
+38.295507,-122.475713
+Interchange 19 Center (W Napa St)
+38.293796,-122.475707
+Interchange 20 Center (5th St W)
+38.292936,-122.468078
+Interchange 21 Center (2nd St W)
+38.292253,-122.461266
+Interchange 22 Center (Center of Sonoma)
+38.291958,-122.457839
