@@ -1,2 +1,11 @@
 # Traffic Estimate
-Code used to build data for the DIVE Research Group in Stanford's College of Earth Sciences.
+'traffic-estimate' was a project with the Stanford DIVE group, which aimed to create a map of average commute times on major corridors (Highway 12, Highway 101, and Road 116) and routes between the centroids of the most populated zip codes within Sonoma County, CA. This data could then be used with a model to estimate the volume of cars on specific regions of each major road, which would then allow the group to compare car volume over time with factors like local pollution levels and income levels.
+# Generating Data
+## Overall Approach
+This project used the Google Maps Distance Matrix API on segments of each road and on Zip Code centroids, logging the 'estimated time with traffic' in respective .csv files found in the /data folder. If the main script, 'gmaps-rush-hour.py' is running, at 6, each semgent of each road and all unique Zip Code pairings are passed through the API and commute times recorded, repeating every 10 minutes until 10 AM.
+## GPS Segmenting
+For the GPS coordinates of the major roads, the total segment of the road within Sonoma County was divided at each exit or intersection with traffic lights. For each direction of each road, the commute time of the entire road within Sonoma County was recorded and then each segment was passed through the API in that given direction. You can find the coordinates of each road stored in their respective .txt files in the /ref folder; for more info on the ref folder or the file formatting, please refer to README.md in /ref. 
+## Ensuring Path Continuity
+To make sure Google Maps followed the same path every time the specific commute time for a trip was called, the distance (in meters) and estimated time (without accounting for traffic) of every trip is also recorded. Thus, if a different path was chosen, these numbers would change and could be caught when trying to convert the raw data into the final map.
+# Running the Script
+To run this script, first copy the repository and insert a valid Google Cloud API Key with Distance Matrix enabled into '/traffic-estimate/ref/.gitignore/google-api-key.txt'. Next, you must modify line 232 in 'traffic-estimate/src/gmaps-rush-hour.py' to point to the root folder of the repository. Finally, have 'gmaps-rush-hour.py' between 6 and 10 AM to gather data that is then put into the /data folder.
